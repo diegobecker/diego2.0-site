@@ -1,0 +1,17 @@
+# Hugo generated files
+/public/
+/resources/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+
+# Git submodule folders (if not needed to track)
+themes/*/exampleSite/
