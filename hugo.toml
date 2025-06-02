@@ -1,4 +1,22 @@
-baseURL = '/'
-languageCode = 'en-us'
-title = 'Diego 2.0'
-theme = 'PaperMod'
+baseURL = "https://diegobecker.com.br/"
+title = "Diego Becker"
+theme = "PaperMod"
+languageCode = "en-us"
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  defaultTheme = "auto"
+  showReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  disableScrollToTop = false
+
+[[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 1
