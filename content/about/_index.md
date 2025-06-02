@@ -6,19 +6,22 @@ draft: false
 
 # About Me
 
-Hello! I'm Diego Becker, a passionate IT professional focused on cloud computing, programming, and continuous learning.
+Hi, I'm **Diego Becker** — a Brazilian software engineer passionate about cloud computing, DevOps, and helping people start their careers in tech.
 
-I’m on a journey to improve my skills in AWS, English, and personal growth. This site shares my experiences, projects, and insights along the way.
+With years of experience in software development, infrastructure, and operations, I’ve worked across different areas that gave me a solid understanding of how modern platforms work. Today, I focus on building solutions that make life easier for developers and teams.
 
-## Connect with me
+I created this blog to share simple and practical content for people who want to start or transition into the tech industry. My goal is to make cloud, DevOps, and infrastructure topics more approachable, especially for beginners.
 
-- [LinkedIn](https://www.linkedin.com/in/diegobecker)
-- [GitHub](https://github.com/diegobecker)
-- [YouTube](https://www.youtube.com/channel/UCYourChannelID)
-- [Twitter](https://twitter.com/diegobecker) (if you use it)
-
-Feel free to reach out!
+If you're just starting your journey, I hope this space helps you learn faster and feel more confident.
 
 ---
 
-Thanks for visiting my site.
+### Connect with me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/iamdiegobecker)
+- 🐙 [GitHub](https://github.com/diegobecker)
+- 📺 [YouTube](https://youtube.com/@odiegobecker) (Coming soon!)
+- ✉️ [Email](mailto:seuemail@exemplo.com)
+
+Feel free to reach out — I’d love to hear from you!
+
