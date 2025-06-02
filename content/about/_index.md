@@ -4,8 +4,6 @@ date: 2025-06-01
 draft: false
 ---
 
-# About Me
-
 Hi, I'm **Diego Becker** — a Brazilian software engineer passionate about cloud computing, DevOps, and helping people start their careers in tech.
 
 With years of experience in software development, infrastructure, and operations, I’ve worked across different areas that gave me a solid understanding of how modern platforms work. Today, I focus on building solutions that make life easier for developers and teams.

@@ -17,6 +17,11 @@ languageCode = "en-us"
   disableScrollToTop = false
 
 [[menu.main]]
+  name = "Profile"
+  url = "profile/"
+  weight = 1
+
+[[menu.main]]
   name = "About"
   url = "about/"
-  weight = 1
+  weight = 2
