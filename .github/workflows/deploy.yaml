@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          submodules: recursive
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -21,19 +23,16 @@ jobs:
           hugo-version: '0.147.7'
           extended: true
 
+      - name: Verificar arquivos de conteúdo
+        run: find ./content -type f
+
       - name: Build Hugo site
         env:
           HUGO_ENV: production
-        run: hugo --verbose
+        run: hugo --minify --destination=public
 
-      - name: Hugo version
-        run: hugo version
-
-      - name: List root files
-        run: ls -la
-
-      - name: List public files
-        run: ls -la ./public
+      - name: Listar arquivos gerados
+        run: find ./public -type f
 
       - name: Deploy to S3
         run: aws s3 sync ./public s3://www.diegobecker.com.br --delete
