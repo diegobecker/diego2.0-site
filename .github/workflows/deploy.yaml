@@ -23,16 +23,10 @@ jobs:
           hugo-version: '0.147.7'
           extended: true
 
-      - name: Verificar arquivos de conteúdo
-        run: find ./content -type f
-
       - name: Build Hugo site
         env:
           HUGO_ENV: production
         run: hugo --minify --destination=public
-
-      - name: Listar arquivos gerados
-        run: find ./public -type f
 
       - name: Deploy to S3
         run: aws s3 sync ./public s3://www.diegobecker.com.br --delete
