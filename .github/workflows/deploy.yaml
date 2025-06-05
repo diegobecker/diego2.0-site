@@ -24,7 +24,7 @@ jobs:
       - name: Build Hugo site
         env:
           HUGO_ENV: production
-        run: hugo --minify --destination=public
+        run: hugo --verbose
 
       - name: Hugo version
         run: hugo version
