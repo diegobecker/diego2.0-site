@@ -24,6 +24,9 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
 
+      - name: List public folder content
+        run: ls -l ./public
+
       - name: Deploy to S3
         run: aws s3 sync ./public s3://www.diegobecker.com.br --delete
         env:
