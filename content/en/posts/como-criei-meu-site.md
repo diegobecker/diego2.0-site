@@ -1,7 +1,8 @@
 +++
 title = 'Como Criei Meu Site'
 date = 2025-06-08T17:58:17-03:00
-draft = true
+draft = false
+translationKey: "my-site"
 +++
 
 # Como coloquei meu site no ar com domínio próprio, HTTPS e infraestrutura na AWS (com Terraform)
