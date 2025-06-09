@@ -24,9 +24,13 @@ This series is aimed at people who are starting in tech or want to transition in
 
 ---
 
-## 📚 This Post Series
+## 🏛 Architecture Overview
 
-Esse é o primeiro post de uma série onde vou explicar **cada parte dessa arquitetura em detalhes**, com tutoriais práticos e código comentado. Aqui está a ordem planejada:
+![Architecture diagram](/images/arquitetura-site.png)
+
+---
+
+## 📚 This Post Series
 
 This is the first post in a series where I’ll explain **each part of this architecture in detail**, with practical tutorials and commented code. Here’s the planned structure:
 

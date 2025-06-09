@@ -24,6 +24,12 @@ Essa série é voltada para quem está começando na área de tecnologia ou quer
 
 ---
 
+## 🏛 Arquitetura Geral
+
+![Diagrama de arquitetura](/images/arquitetura-site.png)
+
+---
+
 ## 📚 Essa série de posts
 
 Esse é o primeiro post de uma série onde vou explicar **cada parte dessa arquitetura em detalhes**, com tutoriais práticos e código comentado. Aqui está a ordem planejada:
