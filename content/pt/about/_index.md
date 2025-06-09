@@ -1,27 +1,27 @@
 ---
-title: "About Me"
+title: "Sobre Mim"
 date: 2025-06-01
 draft: false
+translationKey: "about-page"
 ---
 
-Hi, I'm **Diego Becker** — a Brazilian software engineer who thrives on real-world challenges and believes that chaos, when embraced with purpose, leads to growth.
+Olá, eu sou o **Diego Becker** — um engenheiro de software brasileiro que gosta de desafios reais e acredita que o caos, quando abraçado com propósito, leva ao crescimento.
 
-With a background that spans software development, infrastructure, and operations, I’ve developed a deep understanding of how modern systems behave — especially when things go wrong. I enjoy the intensity of production environments, incident response, and building resilient platforms that actually make developers' lives easier.
+Com uma trajetória que passa por desenvolvimento de software, infraestrutura e operações, desenvolvi uma compreensão profunda de como sistemas modernos se comportam — especialmente quando algo dá errado. Gosto da intensidade dos ambientes de produção, da resposta a incidentes e de construir plataformas resilientes que realmente facilitam a vida de quem desenvolve.
 
-I’m also a big fan of punk rock (shout-out to the Ramones), and that spirit of simplicity, authenticity, and rebellion shapes the way I work and teach. I'm not into overcomplicated solutions — I believe in solving real problems with clarity, speed, and a touch of controlled chaos.
+Também sou fã de punk rock (um salve pros Ramones), e esse espírito de simplicidade, autenticidade e rebeldia influencia meu jeito de trabalhar e ensinar. Não curto soluções complicadas — acredito em resolver problemas reais com clareza, agilidade e um toque de caos controlado.
 
-This blog is my way of giving back. I create simple, honest, and practical content to help people start or transition into tech — especially in cloud, DevOps, and infrastructure. If you're just beginning your journey, I hope this space gives you tools, confidence, and the feeling that you're not alone.
+Este blog é a minha forma de retribuir. Crio conteúdos simples, honestos e práticos para ajudar quem está começando ou quer migrar para a área de tecnologia — especialmente em cloud, DevOps e infraestrutura. Se você está no início da jornada, espero que este espaço te traga ferramentas, confiança e a certeza de que você não está sozinho.
 
-Welcome to my corner of the internet — where tech meets attitude.
+Bem-vindo ao meu canto da internet — onde tecnologia encontra atitude.
 
 ---
 
-### Connect with me
+### Conecte-se comigo
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/iamdiegobecker)
 - 🐙 [GitHub](https://github.com/diegobecker)
-- 📺 [YouTube](https://youtube.com/@odiegobecker) (Coming soon!)
+- 📺 [YouTube](https://youtube.com/@odiegobecker) (Em breve!)
 - ✉️ [Email](mailto:seuemail@exemplo.com)
 
-Feel free to reach out — I’d love to hear from you!
-
+Fique à vontade para me chamar — vou adorar trocar uma ideia com você!

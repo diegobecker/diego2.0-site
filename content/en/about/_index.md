@@ -2,6 +2,7 @@
 title: "About Me"
 date: 2025-06-01
 draft: false
+translationKey: "about-page"
 ---
 
 Hi, I'm **Diego Becker** — a Brazilian software engineer who thrives on real-world challenges and believes that chaos, when embraced with purpose, leads to growth.
