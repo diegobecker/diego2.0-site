@@ -1,13 +1,15 @@
 ---
 title: "Professional Profile"
 date: 2025-06-01
+draft: false
+translationKey: "profile-page"
 ---
 
 I’m a Platform Engineer with solid experience in infrastructure as code, cloud computing, CI/CD pipelines, and platform engineering. I’ve helped multiple organizations modernize and scale their environments through automation, cloud-native tools, and internal platforms.
 
 ## 🚀 Experience Highlights
 
-**Thoughtworks – Consultant (2021–2025)**  
+**Thoughtworks – Senior Consultant (since 2018)**  
 *Various clients across LATAM and North America*
 
 - Designed and built cloud platforms using AWS, GCP, and Azure

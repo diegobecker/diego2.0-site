@@ -1,38 +1,40 @@
 ---
-title: "Professional Profile"
+title: "Perfil Profissional"
 date: 2025-06-01
+draft: false
+translationKey: "profile-page"
 ---
 
-I’m a Platform Engineer with solid experience in infrastructure as code, cloud computing, CI/CD pipelines, and platform engineering. I’ve helped multiple organizations modernize and scale their environments through automation, cloud-native tools, and internal platforms.
+Sou Engenheiro de Plataformas com experiência sólida em infraestrutura como código, computação em nuvem, pipelines de CI/CD e engenharia de plataformas. Tenho ajudado diversas organizações a modernizar e escalar seus ambientes por meio de automação, ferramentas cloud-native e plataformas internas.
 
-## 🚀 Experience Highlights
+## 🚀 Destaques da Experiência
 
-**Thoughtworks – Consultant (2021–2025)**  
-*Various clients across LATAM and North America*
+**Thoughtworks – Consultor Sênior (desde 2018)**  
+*Vários clientes na América Latina e América do Norte*
 
-- Designed and built cloud platforms using AWS, GCP, and Azure
-- Developed reusable Terraform modules integrated with CI/CD and compliance pipelines
-- Led platform support initiatives, improving response times and tooling
-- Worked on internal developer platforms using Backstage, GitHub Actions, and Terraform
-- Collaborated with architecture and data teams to support scalable pipelines and CMDB standards
+- Desenhei e construí plataformas em nuvem utilizando AWS, GCP e Azure
+- Desenvolvi módulos Terraform reutilizáveis integrados a pipelines de CI/CD e compliance
+- Liderei iniciativas de suporte de plataforma, melhorando tempos de resposta e ferramentas
+- Trabalhei em plataformas internas para desenvolvedores com Backstage, GitHub Actions e Terraform
+- Colaborei com equipes de arquitetura e dados para suportar pipelines escaláveis e padrões de CMDB
 
-**Previous Roles**
-- Platform Engineer – Fitness Tech (AWS, Terraform, CircleCI, Docker)
-- Developer – Feevale University & GvDasa (C#, Delphi, SQL Server)
+**Experiências anteriores**
+- Engenheiro de Plataformas – Fitness Tech (AWS, Terraform, CircleCI, Docker)
+- Desenvolvedor – Universidade Feevale & GvDasa (C#, Delphi, SQL Server)
 
-## 🛠 Core Skills
+## 🛠 Competências principais
 
-- **AWS & DevOps**: EC2, S3, IAM, CloudWatch, Lambda, CI/CD with GitHub Actions & GitLab
-- **Terraform**: IaC modules across AWS, GCP, Azure with Terraform Cloud
-- **Kubernetes**: EKS clusters, Helm, multi-env deployments, autoscaling
-- **Python**: Infrastructure automation, custom tooling, PyTest
-- **Docker**: Containerized apps, optimized images, integrated with CI/CD
+- **AWS & DevOps**: EC2, S3, IAM, CloudWatch, Lambda, CI/CD com GitHub Actions & GitLab
+- **Terraform**: Módulos de IaC para AWS, GCP, Azure com Terraform Cloud
+- **Kubernetes**: Clusters EKS, Helm, deploys multiambiente, autoscaling
+- **Python**: Automação de infraestrutura, ferramentas customizadas, PyTest
+- **Docker**: Aplicações containerizadas, imagens otimizadas, integração com CI/CD
 
-## 🎓 Education
+## 🎓 Formação Acadêmica
 
-**Bachelor's in Information Systems – Unisinos**
+**Bacharelado em Sistemas de Informação – Unisinos**
 
 ---
 
-You can also check my full [LinkedIn profile](https://www.linkedin.com/in/iamdiegobecker).
+Você também pode conferir meu [perfil no LinkedIn](https://www.linkedin.com/in/iamdiegobecker).
 
