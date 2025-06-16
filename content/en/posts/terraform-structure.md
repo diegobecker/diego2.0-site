@@ -1,7 +1,7 @@
 +++
 title = 'Infrastructure as Code with Terraform: How I Organized My Project'
 date = 2025-06-16T15:11:51-03:00
-draft = true
+draft = false
 translationKey = "terraform"
 +++
 
