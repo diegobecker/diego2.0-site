@@ -1,11 +1,9 @@
 +++
-title = 'Como Criei Meu Site'
+title = 'Como coloquei meu site no ar com domínio próprio, HTTPS e infraestrutura na AWS (com Terraform)'
 date = 2025-06-08T17:58:17-03:00
 draft = false
 translationKey = "my-site"
 +++
-
-# Como coloquei meu site no ar com domínio próprio, HTTPS e infraestrutura na AWS (com Terraform)
 
 Ter um site pessoal profissional, com seu próprio domínio e HTTPS, pode parecer complicado — mas com as ferramentas certas, é totalmente viável. Neste primeiro post, vou mostrar uma visão geral da arquitetura que usei para colocar meu site no ar usando **AWS**, **Terraform** e **GitHub Actions**.
 

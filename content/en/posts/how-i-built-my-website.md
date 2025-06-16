@@ -1,11 +1,9 @@
 +++
-title = 'How I Built My Website'
+title = 'How I Built My Website with a Custom Domain, HTTPS, and Infrastructure on AWS (Using Terraform)'
 date = 2025-06-08T17:58:17-03:00
 draft = false
 translationKey = "my-site"
 +++
-
-# How I Built My Website with a Custom Domain, HTTPS, and Infrastructure on AWS (Using Terraform)
 
 Having a professional personal website with a custom domain and HTTPS might sound complex — but with the right tools, it’s totally achievable. In this first post, I’ll share an overview of the architecture I used to get my site online using **AWS**, **Terraform**, and **GitHub Actions**.
 
