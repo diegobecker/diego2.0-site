@@ -2,6 +2,7 @@
 title = 'Teste Backstage'
 date = 2026-09-01T15:09:45-03:00
 draft = true
+title = [
 +++
 
 # Teste
