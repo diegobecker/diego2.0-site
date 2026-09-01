@@ -4,12 +4,38 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
+  validate:
+    name: Validate Hugo site
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.147.7'
+          extended: true
+
+      - name: Build Hugo site
+        env:
+          HUGO_ENV: production
+        run: hugo --minify --destination=public
+
   deploy:
     name: Deploy Hugo site to S3
     runs-on: ubuntu-latest
     environment: AWS
+    needs: validate
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
 
     steps:
       - name: Checkout code
