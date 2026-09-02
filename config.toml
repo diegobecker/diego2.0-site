@@ -1,8 +1,8 @@
 baseURL = "https://diegobecker.com.br/"
 title = "Diego Becker"
 theme = "PaperMod"
+
 defaultContentLanguage = "pt"
-defaultContentLanguageInSubdir = true
 languageCode = "pt-br"
 
 [pagination]
@@ -17,40 +17,16 @@ languageCode = "pt-br"
   ShowCodeCopyButtons = true
   ShowWordCount = true
   disableScrollToTop = false
-  ShowLanguageSwitcher = true
+  ShowLanguageSwitcher = false
+  mainSections = []
+  
 
-[languages]
+[[menu.main]]
+  name = "Artigos"
+  url = "posts/"
+  weight = 1
 
-  [languages.pt]
-    languageName = "Português"
-    weight = 1
-    contentDir = "content/pt"
-    title = "Diego Becker"
-    languageCode = "pt-br"
-
-    [[languages.pt.menu.main]]
-      name = "Perfil"
-      url = "profile/"
-      weight = 1
-
-    [[languages.pt.menu.main]]
-      name = "Sobre"
-      url = "about/"
-      weight = 2
-
-  [languages.en]
-    languageName = "English"
-    weight = 2
-    contentDir = "content/en"
-    title = "Diego Becker"
-    languageCode = "en-us"
-
-    [[languages.en.menu.main]]
-      name = "Profile"
-      url = "profile/"
-      weight = 1
-
-    [[languages.en.menu.main]]
-      name = "About"
-      url = "about/"
-      weight = 2
+[[menu.main]]
+  name = "Sobre"
+  url = "about/"
+  weight = 2
